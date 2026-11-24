@@ -1,0 +1,111 @@
+# 👡 Encuesta de Aceptabilidad de Calzado
+
+> **Instrucciones para responder por WhatsApp:** 
+> Puedes responder esta encuesta enviando un mensaje con el número de la pregunta y tu respuesta. 
+> *Ejemplo: 1. 26-35 | 2. Sí | 3. Prefiero C1 ...*
+
+---
+
+## 📋 Sección 1: Datos Generales
+
+**1. ¿Cuál es tu rango de edad?**
+* [ ] Menos de 18 años
+* [ ] 18 - 25 años
+* [ ] 26 - 35 años
+* [ ] 36 - 45 años
+* [ ] 46 - 55 años
+* [ ] Más de 55 años
+
+**2. ¿Compras habitualmente este tipo de calzado (sandalias, mules o planos)?**
+* [ ] Sí, frecuentemente
+* [ ] A veces
+* [ ] Rara vez
+* [ ] No
+
+---
+
+## 👠 Sección 2: Evaluación por Referencias
+
+---
+
+### 🔹 MÓDULO 1: Referencia C1 vs. Referencia S1
+
+> *(Ver imágenes adjuntas: C1 - Mule tejido / S1 - Sandalia estampado cebra)*
+
+**3. Preferencia Visual:** ¿Cuál capta más tu atención?
+* [ ] Prefiero C1
+* [ ] Prefiero S1
+* [ ] Ninguna
+
+**4. ¿Qué te parece el modelo C1?** *(Escala 1 al 5)*
+* [ ] 1 (Me disgusta mucho)
+* [ ] 2 (Me disgusta)
+* [ ] 3 (Neutral / Indiferente)
+* [ ] 4 (Me gusta)
+* [ ] 5 (Me gusta mucho)
+
+**5. Intención de compra (C1):** ¿Lo comprarías si estuviera disponible?
+* [ ] Sí
+* [ ] Probablemente
+* [ ] No estoy segura(o)
+* [ ] No
+
+**6. ¿Para qué ocasión utilizarías la Referencia C1?**
+* [ ] Uso diario / Casual
+* [ ] Trabajo / Oficina
+* [ ] Salidas / Eventos
+* [ ] Vacaciones / Clima cálido
+
+**7. Preferencias (C1):**
+* Colors preferidos: ____________
+* Tu talla de calzado: ____________
+
+**8. ¿Cuánto pagarías en total por la Referencia C1? ($ COP):**
+* $ ____________ COP
+
+**9. Sensibilidad de Precio en $ COP (C1):**
+* **a. Tan barato que dudarías de la calidad:** $ ____________
+* **b. Excelente relación calidad-precio (Buena compra):** $ ____________
+* **c. Costoso, pero todavía lo considerarías:** $ ____________
+* **d. Demasiado costoso (Definitivamente NO lo comprarías):** $ ____________
+
+---
+
+### 🔹 MÓDULO 2: Referencia C2 vs. Referencia S2
+
+> *(Ver imágenes adjuntas: C2 - Sandalia tiras con tachuelas / S2 - Slide beige)*
+
+**10. Preferencia Visual:** ¿Cuál capta más tu atención?
+* [ ] Prefiero C2
+* [ ] Prefiero S2
+* [ ] Ninguna
+
+**11. ¿Qué te parece el modelo C2?** *(Escala 1 al 5)*
+* [ ] 1 (Me disgusta mucho)
+* [ ] 2 (Me disgusta)
+* [ ] 3 (Neutral / Indiferente)
+* [ ] 4 (Me gusta)
+* [ ] 5 (Me gusta mucho)
+
+**12. Intención de compra (C2):** ¿Lo comprarías si estuviera disponible?
+* [ ] Sí
+* [ ] Probablemente
+* [ ] No estoy segura(o)
+* [ ] No
+
+**13. ¿Para qué ocasión utilizarías la Referencia C2?**
+* [ ] Uso diario / Casual
+* [ ] Trabajo / Oficina
+* [ ] Salidas / Eventos
+* [ ] Vacaciones / Clima cálido
+
+**14. Preferencias (C2):**
+* Colores preferidos: ____________
+* Tu talla de calzado: ____________
+
+**15. ¿Cuánto pagarías en total por la Referencia C2? ($ COP):**
+* $ ____________ COP
+
+**16. Sensibilidad de Precio en $ COP (C2):**
+* **a. Tan barato que dudarías de la calidad:** $ ____________
+* **b. Excelente relación calidad-precio (Buena compra):
