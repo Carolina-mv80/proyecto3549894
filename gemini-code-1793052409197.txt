@@ -1,5 +1,6 @@
 # 👡 Encuesta de Aceptabilidad de Calzado
 esta es una linea nueva
+nuevo cambio
 > **Instrucciones para responder por WhatsApp:** 
 > Puedes responder esta encuesta enviando un mensaje con el número de la pregunta y tu respuesta. 
 > *Ejemplo: 1. 26-35 | 2. Sí | 3. Prefiero C1 ...*
